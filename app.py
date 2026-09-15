@@ -59,7 +59,7 @@ print(dict["nombre"])
 
 def saludar(nombre):
     print(f"hola {nombre}")
-
+    
 saludar("miguel")
 saludar("jhoan")
 
@@ -125,4 +125,6 @@ print(b)
 ## genear un valor ramdon 
 numero_aleatorio= random.randint(1, 10)
 print(f"numero aleatorio: {numero_aleatorio}")
+
+
 
